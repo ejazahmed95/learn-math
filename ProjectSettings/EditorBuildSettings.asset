@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/LearnMath/Levels/MathScene.unity
+    guid: 0c5e9e394b58f65428bd93c1e4781c04
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: e9b3bb0872eace54c96c17203ce4d733, type: 2}
